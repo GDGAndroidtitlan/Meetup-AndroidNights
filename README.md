@@ -1,10 +1,12 @@
-Meetup AndroidiNights by GDG Androidtitlan
+# Meetup AndroidiNights by GDG Androidtitlan
 
 
-First Activity
+#Primer meetup - First Activity
 
-Speaker-Uriel Rodolfo Ramirez Moreno
-Github-thespianartist
-Slides https://speakerdeck.com/thespianartist/android-m-developer-preview
+Thanks:
+
+**Uriel Rodolfo Ramirez Moreno** thespianartist
+https://speakerdeck.com/thespianartist/android-m-developer-preview
+
 
 
