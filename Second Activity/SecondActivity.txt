@@ -1,0 +1,7 @@
+First Activity
+
+Speaker
+
+Nombre  Uriel Rodolfo Ramirez 
+GitHub  thespianartist
+Slides  https://speakerdeck.com/thespianartist/android-m-developer-preview
