@@ -25,7 +25,7 @@ Thanks:
 
 3. Speaker 
   * **Mike Morán**
-  * 
+  * Encuentralo como **mikesaurio@codeandomexico.org**
 
 
 
