@@ -30,7 +30,6 @@ Thanks:
   * **Juan Pablo Villa**
   * Encuentralo en Github como **juansimp**
   * **Slides** http://bit.ly/android-wear-slides
-
 3. Speaker 
   * **Mike Morán**
   * Encuentralo como **mikesaurio@codeandomexico.org**
