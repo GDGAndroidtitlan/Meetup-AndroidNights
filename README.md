@@ -29,7 +29,7 @@ Thanks:
 2. Speaker 
   * **Juan Pablo Villa**
   * Encuentralo en Github como **juansimp**
-  * **Slides** https://docs.google.com/presentation/d/1dVtdKRf5t0Ht5DM5sv-5-8YVf0LN_MKilqesvgljse0/edit#slide=id.g5b1   7c8e3c_1_78
+  * **Slides** https://docs.google.com/presentation/d/1dVtdKRf5t0Ht5DM5sv-5-8YVf0LN_MKilqesvgljse0/edit#slide=id.g5b7c8e3c_1_78
 
 3. Speaker 
   * **Mike Morán**
