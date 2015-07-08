@@ -14,16 +14,18 @@ Thanks:
 Puedes encontrar el codigo de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
 
-*Speaker 1**
-* **Erik Jhordan Gonzalez Reyes**
-* Encuentralo en Github como **erikcaffrey** 
-* **Slides** https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
-*Speaker 2**
-* **Juan Pablo Villa**
-* Encuentralo en Github como **juansimp**
-* **Slides** https://docs.google.com/presentation/d/1dVtdKRf5t0Ht5DM5sv-5-8YVf0LN_MKilqesvgljse0/edit#slide=id.g5b17c8e3c_1_78
+1. Speaker 
+  * **Erik Jhordan Gonzalez Reyes**
+  * Encuentralo en Github como **erikcaffrey** 
+  * **Slides** https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
+2. Speaker 
+  * **Juan Pablo Villa**
+  * Encuentralo en Github como **juansimp**
+  * **Slides** https://docs.google.com/presentation/d/1dVtdKRf5t0Ht5DM5sv-5-8YVf0LN_MKilqesvgljse0/edit#slide=id.g5b1   7c8e3c_1_78
 
-
+3. Speaker 
+  * **Mike Morán**
+  * 
 
 
 
