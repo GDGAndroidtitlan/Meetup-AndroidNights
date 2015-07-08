@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androititlan.gdg.androiddesignlibrary" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.DesignLibrary" >
+        <activity
+            android:name=".ui.activity.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.activity.ChatActivity"
+            android:label="@string/app_name" >
+
+        </activity>
+
+        <activity android:name=".ui.activity.HomeActivity"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="be8932736eb17aadba12c5c5d7d7ee2dbbe83980" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
