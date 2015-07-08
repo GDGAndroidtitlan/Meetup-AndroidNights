@@ -5,8 +5,18 @@
 Puedes encontrar el codigo de la sesión en el repositorio correspondiente al meetup 
 Thanks:
 
-* Uriel Rodolfo Ramirez Moreno **thespianartist** 
+* Uriel Rodolfo Ramirez Moreno Siguelo en Github **thespianartist** 
 * **Slides** https://speakerdeck.com/thespianartist/android-m-developer-preview
+
+#Segundo meetup - Second Activity
+
+Puedes encontrar el codigo de la sesiones en el repositorio correspondiente al meetup 
+Thanks:
+
+* Erik Jhordan Gonzalez Reyes Siguelo en Github **erikcaffrey** 
+* **Slides** https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
+
+
 
 
 
