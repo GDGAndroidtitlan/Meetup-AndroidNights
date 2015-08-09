@@ -23,7 +23,7 @@ Puedes encontrar el código de la sesiones en el repositorio correspondiente al 
 Thanks:
 
 1. Speaker 
-  * **Erik Jhordan Gonzalez Reyes**
+  * **Erik Jhordan Rey Caffrey**
   * Encuentralo en Github como **erikcaffrey** 
   * **Slides** https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
 2. Speaker 
