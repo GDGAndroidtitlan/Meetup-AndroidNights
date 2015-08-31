@@ -46,7 +46,7 @@ Thanks:
 2. Speaker 
   * **Leonel Méndez Jiménez**
   * Encuentralo en Github como **leomindez**
-  * **Slides** https://docs.google.com/presentation/d/1rNmtbSWvjm5OpgaqDVDqF8D1uZT58FUROPMlFRAFwY0/edit?usp=sharing
+  * **Slides** https://goo.gl/Ag8B95
 
 
 
