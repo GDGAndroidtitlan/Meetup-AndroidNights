@@ -34,6 +34,19 @@ Thanks:
   * **Mike Morán**
   * Encuentralo como **mikesaurio@codeandomexico.org**
 
+#Tercer meetup - Third Activity
+
+Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
+Thanks:
+1. Speaker 
+  * **Pedro Antonio Hernandez**
+  * Encuentralo en Github como **silmood** 
+  * **Slides** http://slides.com/petterhdz/deck-ba1dc397-8318-409a-94dd-b7f7cf784337#/
+2. Speaker 
+  * **Leonel Méndez Jiménez**
+  * Encuentralo en Github como **leomindez**
+  * **Slides** https://docs.google.com/presentation/d/1rNmtbSWvjm5OpgaqDVDqF8D1uZT58FUROPMlFRAFwY0/edit?usp=sharing
+
 
 
 
