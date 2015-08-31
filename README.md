@@ -36,7 +36,7 @@ Thanks:
 
 #Tercer meetup - Third Activity
 
-Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
+En este meetup no hubo proyectos de ejemplo pero puedes visitar el github de los ponentes.
 Thanks:
 
 1. Speaker 
