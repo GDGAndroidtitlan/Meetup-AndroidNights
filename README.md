@@ -59,7 +59,7 @@ Thanks:
   * **Slides** https://goo.gl/zBtILb
 2. Speaker 
   * **Guillermo Costecho**
-  * Encuentralo en Github como **leomindez**
+  * Encuentralo en Github como very soon!
   * **Slides** very soon!
 3. Speaker 
   * **Ariana Santillan Gothwski**
