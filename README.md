@@ -47,6 +47,25 @@ Thanks:
   * **Leonel Méndez Jiménez**
   * Encuentralo en Github como **leomindez**
   * **Slides** https://goo.gl/Ag8B95
+  
+#Cuarto meetup - foutrh Activity
+
+Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
+Thanks:
+
+1. Speaker 
+  * **Edgar Salvador Maurilio**
+  * Encuentralo en Github como **salvadormaurilio** 
+  * **Slides** https://goo.gl/zBtILb
+2. Speaker 
+  * **Guillermo Costecho**
+  * Encuentralo en Github como **leomindez**
+  * **Slides** very soon!
+3. Speaker 
+  * **Ariana Santillan Gothwski**
+  * Encuentralo en Github como **gothwski**
+  * **Slides** very soon!
+
 
 
 
