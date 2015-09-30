@@ -48,7 +48,7 @@ Thanks:
   * Encuentralo en Github como **leomindez**
   * **Slides** https://goo.gl/Ag8B95
   
-#Cuarto meetup - foutrh Activity
+#Cuarto meetup - fourth Activity
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
