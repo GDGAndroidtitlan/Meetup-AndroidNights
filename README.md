@@ -58,9 +58,9 @@ Thanks:
   * Encuentralo en Github como **salvadormaurilio** 
   * **Slides** https://goo.gl/zBtILb
 2. Speaker 
-  * **Guillermo Costecho**
-  * Encuentralo en Github como very soon!
-  * **Slides** very soon!
+  * **Guillermo Romero**
+  * Encuentralo en Github como **memocostecho**
+  * **Slides** https://goo.gl/5yE7ic
 3. Speaker 
   * **Ariana Santillan Gothwski**
   * Encuentralo en Github como **gothwski**
