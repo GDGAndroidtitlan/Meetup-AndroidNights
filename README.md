@@ -64,7 +64,7 @@ Thanks:
 3. Speaker 
   * **Ariana Santillan Gothwski**
   * Encuentralo en Github como **gothwski**
-  * **Slides** very soon!
+  * **Slides** https://goo.gl/UyfNpv
 
 
 
