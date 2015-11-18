@@ -48,7 +48,7 @@ Thanks:
   * Encuentralo en Github como **leomindez**
   * **Slides** https://goo.gl/Ag8B95
   
-#Cuarto meetup - fourth Activity
+#Cuarto meetup - Fourth Activity
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
@@ -66,11 +66,11 @@ Thanks:
   * Encuentralo en Github como **gothwski**
   * **Slides** https://goo.gl/UyfNpv
 
-#Quinto meetup - fiveth Activity
+#Quinto meetup - Fiveth Activity
 
 ** MARTES 13 DE OCTUBRE 2015 **
 
-#Sexto meetup - sixth Activity
+#Sexto meetup - Sixth Activity
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
