@@ -70,5 +70,20 @@ Thanks:
 
 ** MARTES 13 DE OCTUBRE 2015 **
 
+#Sexto meetup - sixth Activity
+
+Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
+Thanks:
+
+1. Speaker 
+  * **Elias Ivan Carrillo**
+  * Encuentralo en Github como **ELIASIVANCARRILLO** 
+  * **Resources** http://bit.ly/1WD3eUI y http://bit.ly/1Pdost8
+2. Speaker 
+  * **Roberto Betancourt**
+  * Encuentralo en Github como **dustedrob**
+  * **Resources** https://goo.gl/scAX2V
+
+
 
 
