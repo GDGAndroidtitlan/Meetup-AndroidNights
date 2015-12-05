@@ -85,5 +85,8 @@ Thanks:
   * **Resources** https://goo.gl/scAX2V
 
 
+#Septmimo meetup - Seventh Activity End Year!
+
+** PRÓXIMO EVENTO MARTES 8 DE DICIEMBRE 2015 ÚLTIMO EVENTO DEL AÑO**
 
 
