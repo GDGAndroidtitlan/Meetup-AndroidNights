@@ -85,7 +85,7 @@ Thanks:
   * **Resources** https://goo.gl/scAX2V
 
 
-#Septmimo meetup - Seventh Activity End Year!
+#Septimo meetup - Seventh Activity End Year!
 
 1. Speaker 
   * **Erik Jhordan González Reyes**
