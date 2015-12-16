@@ -23,9 +23,9 @@ Puedes encontrar el código de la sesiones en el repositorio correspondiente al 
 Thanks:
 
 1. Speaker 
-  * **Erik Jhordan Rey Caffrey**
+  * **Erik Jhordan González Reyes**
   * Encuentralo en Github como **erikcaffrey** 
-  * **Slides** https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
+  * **Resources** http://erikcaffrey.github.io/ y https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
 2. Speaker 
   * **Juan Pablo Villa**
   * Encuentralo en Github como **juansimp**
@@ -87,6 +87,14 @@ Thanks:
 
 #Septmimo meetup - Seventh Activity End Year!
 
-** PRÓXIMO EVENTO MARTES 8 DE DICIEMBRE 2015 ÚLTIMO EVENTO DEL AÑO**
+1. Speaker 
+  * **Erik Jhordan González Reyes**
+  * Encuentralo en Github como **erikcaffrey** 
+  * **Resources** http://erikcaffrey.github.io/ y https://goo.gl/Azyjom
+2. Speaker 
+  * **Gabriel Carvalho**
+  * Googler Sales Enginner - Google Maps API Talk.
+  * **Resources** http://goo.gl/TSu2rt
+  
 
-
+#### Gracias ponentes  y asistentes por hacer una genial comunidad en este 2015 att: GDG Androidtitlan.
