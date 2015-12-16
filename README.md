@@ -93,8 +93,8 @@ Thanks:
   * **Resources** http://erikcaffrey.github.io/ y https://goo.gl/Azyjom
 2. Speaker 
   * **Gabriel Carvalho**
-  * Googler Sales Enginner - Google Maps API Talk.
+  * **Googler Sales Enginner - Google Maps API Talk**.
   * **Resources** http://goo.gl/TSu2rt
   
 
-#### Gracias ponentes  y asistentes por hacer una genial comunidad en este 2015 att: GDG Androidtitlan.
+#### Gracias ponentes  y asistentes por hacer una genial comunidad en este 2015, Equipo GDG Androidtitlan.
