@@ -97,4 +97,4 @@ Thanks:
   * **Resources** http://goo.gl/TSu2rt
   
 
-#### Gracias ponentes  y asistentes por hacer una genial comunidad en este 2015, Equipo GDG Androidtitlan.
+#### El Equipo de GDG Androidtitlan da las Gracias a ponentes y asistentes por hacer una genial comunidad en este 2015 esperando que el 2016 sea aun mejor.
