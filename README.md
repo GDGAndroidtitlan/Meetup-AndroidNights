@@ -12,20 +12,38 @@
 
 # AndroidNights 2016
 
-###Octavo meetup - Eighth Activity!
+###Octavo meetup - Eighth Activity
 
-###Temas/ 12-Ene-2016
+####Temas/ 12-Ene-2016
 
 * Ruby on Android + Procesamiento de videos en android
 
-###Noveno meetup - Ninth Activity !
+###Noveno meetup - Ninth Activity 
 
-###Temas / 9-feb-2016 
+####Temas / 9-feb-2016 
 
 * Taller de VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
-*****************************
+###Decimo meetup - Ten Activity 
+
+Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
+Thanks:
+
+1. Speaker 
+  * **Aurora Rodríguez**
+  * Encuentrala en Github como **condesa** 
+  * **Resources** https://github.com/condesa/AndroidNightsDemo
+2. Speaker 
+  * **Erik Jhordan González Reyes**
+  * Encuentralo en Github como **erikcaffrey** 
+  * **Resources** https://github.com/erikcaffrey/People-MVVM
+3. Speaker 
+  * **Invitado especial Miembro del GDG Santo Domingo - República Dominicana**
+  * **Noe Branagan (@noeBranagan)**
+  * Encuentralo en Github como **eonoe** 
+  
+*******************************************************************************************************
 
 # AndroidNights 2015
 
