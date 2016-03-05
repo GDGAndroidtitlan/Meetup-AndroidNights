@@ -25,6 +25,7 @@
 * Taller de VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
+*****************************
 
 ### AndroidNights 2015
 
