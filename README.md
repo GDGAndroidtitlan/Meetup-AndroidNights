@@ -9,6 +9,23 @@
  * **Facebook** https://www.facebook.com/pages/Androidtitlan/183928924981340?fref=ts
  * **Otro Facebook** https://www.facebook.com/androidinights?fref=ts
 
+
+### AndroidNights 2016
+
+#Octavo meetup - Eighth Activity!
+
+##Temas/ 12-Ene-2016
+
+* Ruby on Android + Procesamiento de videos en android
+
+#Noveno meetup - Ninth Activity !
+
+##Temas / 9-feb-2016 
+
+* Taller de VectorDrawables + Material Challenge
+* **Resources** https://github.com/silmood/Vektr
+
+
 ### AndroidNights 2015
 
 #Primer meetup - First Activity
@@ -100,21 +117,3 @@ Thanks:
   
 
 #### El Equipo de GDG Androidtitlan da las Gracias a ponentes y asistentes por hacer una genial comunidad en este 2015 esperando que el 2016 sea aun mejor.
-
-
-### AndroidNights 2016
-
-#Octavo meetup - Eighth Activity!
-
-##Temas/ 12-Ene-2016
-
-* Ruby on Android + Procesamiento de videos en android
-
-#Noveno meetup - Ninth Activity !
-
-##Temas / 9-feb-2016 
-
-* Taller de VectorDrawables + Material Challenge
-* **Resources** https://github.com/silmood/Vektr
-
-
