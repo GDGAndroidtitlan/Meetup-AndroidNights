@@ -25,7 +25,7 @@
 * Taller de VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
-###Decimo meetup - Ten Activity 
+###Decimo meetup - Tenth Activity 
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
