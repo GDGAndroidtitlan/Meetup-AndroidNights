@@ -10,26 +10,26 @@
  * **Otro Facebook** https://www.facebook.com/androidinights?fref=ts
 
 
-### AndroidNights 2016
+# AndroidNights 2016
 
-#Octavo meetup - Eighth Activity!
+###Octavo meetup - Eighth Activity!
 
-##Temas/ 12-Ene-2016
+###Temas/ 12-Ene-2016
 
 * Ruby on Android + Procesamiento de videos en android
 
-#Noveno meetup - Ninth Activity !
+###Noveno meetup - Ninth Activity !
 
-##Temas / 9-feb-2016 
+###Temas / 9-feb-2016 
 
 * Taller de VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
 *****************************
 
-### AndroidNights 2015
+# AndroidNights 2015
 
-#Primer meetup - First Activity
+###Primer meetup - First Activity
 Puedes encontrar el código de la sesión en el repositorio correspondiente al meetup 
 Thanks:
 
@@ -37,7 +37,7 @@ Thanks:
 * Encuentralo en Github como **thespianartist** 
 * **Slides** https://speakerdeck.com/thespianartist/android-m-developer-preview
 
-#Segundo meetup - Second Activity
+###Segundo meetup - Second Activity
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
@@ -54,7 +54,7 @@ Thanks:
   * **Mike Morán**
   * Encuentralo como **mikesaurio@codeandomexico.org**
 
-#Tercer meetup - Third Activity
+###Tercer meetup - Third Activity
 
 En este meetup no hubo proyectos de ejemplo pero puedes visitar el github de los ponentes.
 Thanks:
@@ -68,7 +68,7 @@ Thanks:
   * Encuentralo en Github como **leomindez**
   * **Slides** https://goo.gl/Ag8B95
   
-#Cuarto meetup - Fourth Activity
+###Cuarto meetup - Fourth Activity
 
 Puedes encontrar el código de la sesiones en el repositorio correspondiente al meetup 
 Thanks:
@@ -86,7 +86,7 @@ Thanks:
   * Encuentralo en Github como **gothwski**
   * **Slides** https://goo.gl/UyfNpv
 
-#Quinto meetup - Fiveth Activity
+###Quinto meetup - Fiveth Activity
 
 ** MARTES 13 DE OCTUBRE 2015 **
 
@@ -105,7 +105,7 @@ Thanks:
   * **Resources** https://goo.gl/scAX2V
 
 
-#Septimo meetup - Seventh Activity End Year!
+###Septimo meetup - Seventh Activity End Year!
 
 1. Speaker 
   * **Erik Jhordan González Reyes**
