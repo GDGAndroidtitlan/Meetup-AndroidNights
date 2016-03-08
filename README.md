@@ -33,7 +33,7 @@ Thanks:
 1. Speaker 
   * **Aurora Rodríguez**
   * Encuentrala en Github como **condesa** 
-  * **Resources** https://github.com/condesa/AndroidNightsDemo
+  * **Resources** https://github.com/condesa/AndroidNightsDemo & http://bit.ly/1LCMywN
 2. Speaker 
   * **Erik Jhordan González Reyes**
   * Encuentralo en Github como **erikcaffrey** 
