@@ -43,6 +43,18 @@ Thanks:
   * **Noe Branagan (@noeBranagan)**
   * Encuentralo en Github como **eonoe** 
   
+# proximos evento 12/04/2016!!!
+
+###Décimo Primero meetup - Eleventh Activity 
+
+1. Speaker 
+  * **Javier Mejía Corona**
+  * Encuentrala en Github como ... 
+  * **Resources** ...
+  
+* Taller de Kotlin ...
+* **Resources**...
+  
 *******************************************************************************************************
 
 # AndroidNights 2015
