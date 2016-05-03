@@ -37,7 +37,7 @@ Thanks:
 2. Speaker 
   * **Erik Jhordan González Reyes**
   * Encuentralo en Github como **erikcaffrey** 
-  * **Resources** https://github.com/erikcaffrey/People-MVVM
+  * **Resources** https://github.com/erikcaffrey/People-MVVM & https://goo.gl/pty5Mg
 3. Speaker 
   * **Invitado especial Miembro del GDG Santo Domingo - República Dominicana**
   * **Noe Branagan (@noeBranagan)**
@@ -77,7 +77,7 @@ Thanks:
 1. Speaker 
   * **Erik Jhordan González Reyes**
   * Encuentralo en Github como **erikcaffrey** 
-  * **Resources** http://erikcaffrey.github.io/ y https://speakerdeck.com/erikcaffrey/evolucion-android-en-material-design
+  * **Resources** http://erikcaffrey.github.io/ y https://goo.gl/l03iUM
 2. Speaker 
   * **Juan Pablo Villa**
   * Encuentralo en Github como **juansimp**
@@ -142,7 +142,7 @@ Thanks:
 1. Speaker 
   * **Erik Jhordan González Reyes**
   * Encuentralo en Github como **erikcaffrey** 
-  * **Resources** http://erikcaffrey.github.io/ y https://goo.gl/Azyjom
+  * **Resources** http://erikcaffrey.github.io/ & https://goo.gl/Azyjom
 2. Speaker 
   * **Gabriel Carvalho**
   * **Googler Sales Enginner - Google Maps API Talk**.
