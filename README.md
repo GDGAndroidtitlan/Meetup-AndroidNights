@@ -55,7 +55,7 @@ Thanks:
 * Taller de Kotlin
 * **Pedro Antonio Hernandez**
 * Encuentralo en Github como **silmood** 
-* *Resources** https://github.com/silmood/Kotlin-TopYork
+* **Resources** https://github.com/silmood/Kotlin-TopYork
   
 *******************************************************************************************************
 
