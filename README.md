@@ -47,8 +47,8 @@ Thanks:
 
 1. Speaker 
   * **Javier Mejía Corona**
-  * Encuentrala en Github como ... 
-  * **Resources** ...
+  * Encuentrala en Github como **zenyagami**
+  * **Resources** https://goo.gl/L2Kw43
   
 2. Taller de Kotlin
  * **Pedro Antonio Hernandez**
