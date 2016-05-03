@@ -55,7 +55,7 @@ Thanks:
  * Encuentralo en Github como **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
  
-# Décimo Segundo proximos evento 9/05/2016!!!
+# Décimo Segundo proximo evento 9/05/2016!!!
   
 *******************************************************************************************************
 
