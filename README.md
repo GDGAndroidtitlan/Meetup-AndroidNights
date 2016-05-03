@@ -43,8 +43,6 @@ Thanks:
   * **Noe Branagan (@noeBranagan)**
   * Encuentralo en Github como **eonoe** 
   
-# proximos evento 12/04/2016!!!
-
 ###Décimo Primero meetup - Eleventh Activity 
 
 1. Speaker 
@@ -56,6 +54,8 @@ Thanks:
  * **Pedro Antonio Hernandez**
  * Encuentralo en Github como **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
+ 
+# Décimo Segundo proximos evento 9/05/2016!!!
   
 *******************************************************************************************************
 
