@@ -50,12 +50,22 @@ Thanks:
   * Encuentrala en Github como **zenyagami**
   * **Resources** https://goo.gl/L2Kw43
   
-2. Taller de Kotlin
+2. Taller de Kotlin Part 1
  * **Pedro Antonio Hernandez**
  * Encuentralo en Github como **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
  
-# Décimo Segundo proximo evento 9/05/2016!!!
+# Décimo Segundo Meetup
+
+1. Speaker 
+  * **Sinuhé Jaime Valencia**
+  * Encuentrala en Github como ****
+  * **Resources** 
+  
+2. Taller de Kotlin part 2
+ * **Pedro Antonio Hernandez**
+ * Encuentralo en Github como **silmood** 
+ * **Resources** https://github.com/silmood/Kotlin-TopYork
   
 *******************************************************************************************************
 
