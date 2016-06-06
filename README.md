@@ -7,7 +7,8 @@
  * **Meetup** http://www.meetup.com/es/Androidinights/
  * **Google+** https://plus.google.com/u/0/+AndroidtitlanMx
  * **Facebook** https://www.facebook.com/pages/Androidtitlan/183928924981340?fref=ts
- * **Otro Facebook** https://www.facebook.com/androidinights?fref=ts
+ * **Facebook 2** https://www.facebook.com/androidinights?fref=ts
+ * **Twitter** https://twitter.com/AndroidTitlan
 
 
 # AndroidNights 2016
