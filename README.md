@@ -12,6 +12,8 @@
 
 # AndroidNights 2016
 
+# proximo evento 14/06/2016!!!
+
 ###Octavo meetup - Eighth Activity
 
 ####Temas/ 12-Ene-2016
