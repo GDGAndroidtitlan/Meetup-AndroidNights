@@ -76,7 +76,7 @@
   * **Googler Sales Enginner - Google Maps API Talk**.
   * **Resources** http://goo.gl/TSu2rt
   
-# Síguenos en Redes Sociales 
+# Follow us on social media 
 
  * **Meetup** http://www.meetup.com/es/Androidinights/
  * **Google+** https://plus.google.com/u/0/+AndroidtitlanMx
