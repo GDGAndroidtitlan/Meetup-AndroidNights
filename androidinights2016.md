@@ -8,7 +8,7 @@
 
 ##9.Ninth Activity 
 
-* Taller de VectorDrawables + Material Challenge
+* Workshop VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
 ##10.Tenth Activity 
@@ -33,7 +33,7 @@
   * Github Nickname **zenyagami**
   * **Resources** https://goo.gl/L2Kw43
   
-2. Taller de Kotlin Part 1
+2. Workshop Kotlin Part 1
  * **Pedro Antonio Hernandez**
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
@@ -45,7 +45,7 @@
   * Github Nickname ****
   * **Resources** 
   
-2. Taller de Kotlin part 2
+2. Workshop Kotlin part 2
  * **Pedro Antonio Hernandez**
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
