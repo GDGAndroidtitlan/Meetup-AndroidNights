@@ -8,7 +8,7 @@
 
 #Organized Events
 
-###You can find all resources, slides and code samples.
+###You can find all resources, slides and code samples of all our events
 
 ##[Meetup Androidinights 2016](https://github.com/GDGAndroidtitlan/Meetup-AndroidNights/blob/master/androidinights2016.md) 
 
