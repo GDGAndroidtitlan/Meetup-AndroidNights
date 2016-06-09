@@ -1,5 +1,5 @@
 
-# Meetup AndroidiNights by GDG Androidtitlan
+# Androidinights 2015 Powered by GDG Androidtitlan
 
 ![alt tag](https://avatars1.githubusercontent.com/u/10427704?v=3&s=400)
 
