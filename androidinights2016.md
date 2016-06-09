@@ -40,7 +40,7 @@
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
  
-# Décimo Segundo Meetup
+#Twelfth
 
 1. Speaker 
   * **Sinuhé Jaime Valencia**
