@@ -5,6 +5,8 @@
 
 # Next Event / Thirteenth Activity
 
+##14/06/2016 Pimp my app [Event](http://www.meetup.com/es-ES/Androidinights/events/231761994/) 
+
 # Would you like to give a talk?
 
 You just have to create a blue issue with the blue label [talk](https://github.com/GDGAndroidtitlan/Meetup-AndroidNights/labels/Talk)
