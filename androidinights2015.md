@@ -3,13 +3,13 @@
 
 ![alt tag](https://avatars1.githubusercontent.com/u/10427704?v=3&s=400)
 
-##First Activity
+##1.First Activity
 
 * **Uriel Rodolfo Ramirez Moreno** 
 * Github Nickname **thespianartist** 
 * **Slides** https://speakerdeck.com/thespianartist/android-m-developer-preview
 
-##Second Activity
+##2.Second Activity
 
 1. Speaker 
   * **Erik Jhordan González Reyes**
@@ -23,7 +23,7 @@
   * **Mike Morán**
   * email **mikesaurio@codeandomexico.org**
 
-##Third Activity
+##3.Third Activity
 
 1. Speaker 
   * **Pedro Antonio Hernandez**
@@ -34,7 +34,7 @@
   * Github Nickname **leomindez**
   * **Slides** https://goo.gl/Ag8B95
   
-##Fourth Activity
+##4.Fourth Activity
 
 1. Speaker 
   * **Edgar Salvador Maurilio**
@@ -49,11 +49,11 @@
   * Github Nickname **gothwski**
   * **Slides** https://goo.gl/UyfNpv
 
-##Fiveth Activity
+##5.Fiveth Activity
 
 Unfortunately we do not have the resources for this session
 
-##Sixth Activity
+##6.Sixth Activity
 
 1. Speaker 
   * **Elias Ivan Carrillo**
@@ -65,7 +65,7 @@ Unfortunately we do not have the resources for this session
   * **Resources** https://goo.gl/scAX2V
 
 
-###Seventh Activity End Year!
+##7.Seventh Activity End Year!
 
 1. Speaker 
   * **Erik Jhordan González Reyes**
