@@ -69,9 +69,11 @@ Thanks:
  * **Pedro Antonio Hernandez**
  * Encuentralo en Github como **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
-  
-*******************************************************************************************************
 
+# Follow us on social media 
 
-
-#### El Equipo de GDG Androidtitlan da las Gracias a ponentes y asistentes por hacer una genial comunidad en este 2015 esperando que el 2016 sea aun mejor.
+ * **Meetup** http://www.meetup.com/es/Androidinights/
+ * **Google+** https://plus.google.com/u/0/+AndroidtitlanMx
+ * **Facebook** https://www.facebook.com/pages/Androidtitlan/183928924981340?fref=ts
+ * **Facebook 2** https://www.facebook.com/androidinights?fref=ts
+ * **Twitter** https://twitter.com/AndroidTitlan
