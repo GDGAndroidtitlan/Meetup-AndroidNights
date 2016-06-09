@@ -5,7 +5,7 @@
 
 # Would you like to give a talk?
 
-You just have to create a blue issue with the tag "talk"
+You just have to create a blue issue with the tag [talk](https://github.com/GDGAndroidtitlan/Meetup-AndroidNights/labels/Talk)
 
 # Follow us on social media 
 
