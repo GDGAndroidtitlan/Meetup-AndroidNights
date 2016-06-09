@@ -2,16 +2,16 @@
 
 ![alt tag](https://avatars1.githubusercontent.com/u/10427704?v=3&s=400)
 
-#8.Eighth Activity
+##8.Eighth Activity
 
 * Ruby on Android + Procesamiento de videos en android
 
-#9.Ninth Activity 
+##9.Ninth Activity 
 
 * Taller de VectorDrawables + Material Challenge
 * **Resources** https://github.com/silmood/Vektr
 
-#10.Tenth Activity 
+##10.Tenth Activity 
 
 1. Speaker 
   * **Aurora Rodríguez**
@@ -26,7 +26,7 @@
   * **Noe Branagan (@noeBranagan)**
   * Github Nickname **eonoe** 
   
-#11.Eleventh Activity 
+##11.Eleventh Activity 
 
 1. Speaker 
   * **Javier Mejía Corona**
@@ -38,7 +38,7 @@
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
  
-#12.Twelfth
+##12.Twelfth
 
 1. Speaker 
   * **Sinuhé Jaime Valencia**
@@ -50,7 +50,7 @@
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
 
-# Follow us on social media 
+## Follow us on social media 
 
  * **Meetup** http://www.meetup.com/es/Androidinights/
  * **Google+** https://plus.google.com/u/0/+AndroidtitlanMx
