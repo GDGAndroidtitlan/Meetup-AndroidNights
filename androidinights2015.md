@@ -51,7 +51,7 @@
 
 ##Fiveth Activity
 
-*unfortunately we do not have the resources for this session
+Unfortunately we do not have the resources for this session
 
 ##Sixth Activity
 
