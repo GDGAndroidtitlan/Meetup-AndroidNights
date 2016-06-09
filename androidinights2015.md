@@ -3,7 +3,6 @@
 
 ![alt tag](https://avatars1.githubusercontent.com/u/10427704?v=3&s=400)
 
-
 ##First Activity
 
 * **Uriel Rodolfo Ramirez Moreno** 
@@ -51,6 +50,8 @@
   * **Slides** https://goo.gl/UyfNpv
 
 ##Fiveth Activity
+
+*unfortunately we do not have the resources for this session
 
 ##Sixth Activity
 
