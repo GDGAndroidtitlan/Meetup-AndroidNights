@@ -75,6 +75,10 @@ Unfortunately we do not have the resources for this session
   * **Gabriel Carvalho**
   * **Googler Sales Enginner - Google Maps API Talk**.
   * **Resources** http://goo.gl/TSu2rt
+
+#Acknowledgment
+
+GDG Team Androidtitlan thanked speakers and attendees for making a great community in this 2015 hoping that 2016 is even better.
   
 # Follow us on social media 
 
