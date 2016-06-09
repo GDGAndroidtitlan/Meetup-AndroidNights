@@ -2,16 +2,8 @@
 
 ![alt tag](https://avatars1.githubusercontent.com/u/10427704?v=3&s=400)
 
-# Síguenos en Redes Sociales 
-
- * **Meetup** http://www.meetup.com/es/Androidinights/
- * **Google+** https://plus.google.com/u/0/+AndroidtitlanMx
- * **Facebook** https://www.facebook.com/pages/Androidtitlan/183928924981340?fref=ts
- * **Facebook 2** https://www.facebook.com/androidinights?fref=ts
- * **Twitter** https://twitter.com/AndroidTitlan
 
 
-# AndroidNights 2016
 
 # proximo evento 14/06/2016!!!
 
@@ -77,3 +69,4 @@ Thanks:
  * **Facebook** https://www.facebook.com/pages/Androidtitlan/183928924981340?fref=ts
  * **Facebook 2** https://www.facebook.com/androidinights?fref=ts
  * **Twitter** https://twitter.com/AndroidTitlan
+
