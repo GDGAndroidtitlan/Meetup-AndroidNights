@@ -21,7 +21,7 @@
   * **Slides** http://bit.ly/android-wear-slides
 3. Speaker 
   * **Mike Morán**
-  * mail **mikesaurio@codeandomexico.org**
+  * email **mikesaurio@codeandomexico.org**
 
 ##Third Activity
 
