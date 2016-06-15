@@ -50,6 +50,17 @@
  * Github Nickname **silmood** 
  * **Resources** https://github.com/silmood/Kotlin-TopYork
 
+##13.thirteenth Activity 
+
+1. Speaker 
+  * **Erik Jhordan González Reyes**
+  * Github Nickname **erikcaffrey** 
+  * **Resources** https://goo.gl/EHhZdS
+
+2. Speaker
+ * **Diego Ramírez**
+ * **Resources** talk about CI, https://travis-ci.org/
+
 ## Follow us on social media 
 
  * **Meetup** http://www.meetup.com/es/Androidinights/
