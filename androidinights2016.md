@@ -18,7 +18,7 @@
   * Github Nickname **condesa** 
   * **Resources** https://github.com/condesa/AndroidNightsDemo & http://bit.ly/1LCMywN
 2. Speaker 
-  * **Erik Jhordan González Reyes**
+  * **Erik Jhordan Rey**
   * Github Nickname **erikcaffrey** 
   * **Resources** https://github.com/erikcaffrey/People-MVVM & https://goo.gl/pty5Mg
 3. Speaker 
@@ -53,7 +53,7 @@
 ##13.thirteenth Activity 
 
 1. Speaker 
-  * **Erik Jhordan González Reyes**
+  * **Erik Jhordan Rey**
   * Github Nickname **erikcaffrey** 
   * **Resources** https://goo.gl/EHhZdS
 
