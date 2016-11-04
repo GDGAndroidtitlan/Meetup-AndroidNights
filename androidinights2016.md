@@ -60,6 +60,42 @@
 2. Speaker
  * **Diego Ramírez**
  * **Resources** talk about CI, https://travis-ci.org/
+ 
+##14.fourteenth Activity 
+
+1. Speaker
+  * **Jose Luis Cadena** .
+2. Speaker
+  * **Anahí Salgado**
+  
+##15.fifteenth Activity 
+
+1. Speaker
+  * **Isabel Palomar** .
+2. Speaker
+  * **Making Devs Team**
+
+##16.sixteenth Activity 
+
+1. Speaker
+  * **Ken Márquez Alvarado** .
+2. Speaker
+  * **Marco Antonio Alvarez Quintero**
+
+##17.seventeenth Activity 
+
+1. Speaker
+  * **Enrique Zamudio** .
+2. Speaker
+  * **Leonel Mendez**
+
+##18.eighteenth Activity 
+
+1. Speaker
+  * **Erik Jhordan Rey** .
+2. Speaker
+  * **Juan Pablo Villa**
+
 
 ## Follow us on social media 
 
