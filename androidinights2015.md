@@ -12,7 +12,7 @@
 ##2.Second Activity
 
 1. Speaker 
-  * **Erik Jhordan González Reyes**
+  * **Erik Jhordan González Rey**
   * Github Nickname **erikcaffrey** 
   * **Resources** http://erikcaffrey.github.io/ y https://goo.gl/l03iUM
 2. Speaker 
