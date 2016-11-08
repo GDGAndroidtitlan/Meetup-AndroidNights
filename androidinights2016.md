@@ -92,7 +92,7 @@
 ##18.eighteenth Activity 
 
 1. Speaker 
-  * **Erik Jhordan González Rey**
+  * **Erik Jhordan Rey**
   * Github Nickname **erikcaffrey** 
   
 2. Speaker 
