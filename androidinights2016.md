@@ -91,10 +91,15 @@
 
 ##18.eighteenth Activity 
 
-1. Speaker
-  * **Erik Jhordan Rey** .
-2. Speaker
+1. Speaker 
+  * **Erik Jhordan González Rey**
+  * Github Nickname **erikcaffrey** 
+  
+2. Speaker 
   * **Juan Pablo Villa**
+  * Github Nickname **juansimp**
+  
+  **Segundamano Mobile Team Slides ** https://goo.gl/igh9UK
 
 
 ## Follow us on social media 
