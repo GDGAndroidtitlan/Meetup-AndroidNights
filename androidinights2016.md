@@ -99,7 +99,7 @@
   * **Juan Pablo Villa**
   * Github Nickname **juansimp**
   
-  **Segundamano Mobile Team Slides ** https://goo.gl/igh9UK
+  **Segundamano Mobile Team Slides** https://goo.gl/igh9UK
 
 
 ## Follow us on social media 
