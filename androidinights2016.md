@@ -100,6 +100,8 @@
   * Github Nickname **juansimp**
   
   **Segundamano Mobile Team Slides** https://goo.gl/igh9UK
+  
+##19.nineteenth Activity 
 
 
 ## Follow us on social media 
