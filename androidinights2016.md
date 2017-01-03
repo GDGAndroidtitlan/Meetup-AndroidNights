@@ -103,6 +103,11 @@
   
 ##19.nineteenth Activity 
 
+1. Speaker 
+  * **Edgar Salvador Maurilio**
+  * Github Nickname **salvadormaurilio** 
+  * **Slides** 
+
 
 ## Follow us on social media 
 
